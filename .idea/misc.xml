@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_button.xml" value="0.1245" />
+        <entry key="app/src/main/res/drawable/ic_arrow_left.xml" value="0.123" />
+        <entry key="app/src/main/res/drawable/ic_icon_close.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1245" />
+        <entry key="app/src/main/res/layout/activity_select_guest.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_add_guest.xml" value="0.2125" />
+        <entry key="app/src/main/res/layout/fragment_select_confirmation.xml" value="0.1359375" />
+        <entry key="app/src/main/res/layout/fragment_select_guest.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_select_guest.xml" value="0.11197916666666667" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/layout/snacbar_custom_design.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

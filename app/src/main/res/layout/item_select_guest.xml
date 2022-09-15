@@ -1,0 +1,25 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        tools:context=".view.activity.SelectGuestActivity">
+
+        <CheckBox
+            android:id="@+id/cb_guest_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/guest_item_color"
+            android:textSize="@dimen/dimen_16sp"
+            android:checked="false"
+            android:buttonTint="@color/check_box_color"
+            android:text="@string/guests_have_reservation" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

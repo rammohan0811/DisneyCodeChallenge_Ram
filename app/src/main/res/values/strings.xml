@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DisneyCodeChallenge_Ram</string>
+    <string name="select_guests">Select Guests</string>
+    <string name="guests_have_reservation">These Guests Have Reservation</string>
+    <string name="guests_need_reservation">These Guests Need Reservation</string>
+    <string name="continue_text">Continue</string>
+
+    <string name="confirmation_text">Confirmation Screen</string>
+    <string name="conflict_text">Conflict Screen</string>
+
+    <string name="at_least_text">At least one Guest in the party must have a reservation.
+        Guests without reservation must remain in the same booking party in order to enter.</string>
+    <string name="need_reservation_text"><b>Reservation Needed</b>\nSelect at least one Guest that has a\nreservation to continue.</string>
+</resources>
